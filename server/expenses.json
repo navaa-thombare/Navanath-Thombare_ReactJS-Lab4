@@ -1,0 +1,74 @@
+{
+  "items": [
+    {
+      "expenseDescription": "Bought Grocery",
+      "payeeName": "Navaa",
+      "price": 400,
+      "date": "2023-04-04",
+      "id": 1
+    },
+    {
+      "expenseDescription": "Paid Maid Salary",
+      "payeeName": "Trisha",
+      "price": 400,
+      "date": "2023-05-03",
+      "id": 8
+    },
+    {
+      "expenseDescription": "Purchased Curtains",
+      "payeeName": "Nandini",
+      "price": 1000,
+      "date": "2023-03-04",
+      "id": 3
+    },
+    {
+      "expenseDescription": "Bought Vegetables",
+      "payeeName": "Amol",
+      "price": 140,
+      "date": "2023-04-04",
+      "id": 9
+    },
+    {
+      "expenseDescription": "Purchased Air Conditioner",
+      "payeeName": "Rahul",
+      "price": 10000,
+      "date": "2023-01-08",
+      "id": 10
+    },
+    {
+      "expenseDescription": "Paid Water Bill",
+      "payeeName": "Ramesh",
+      "price": 200,
+      "date": "2023-01-08",
+      "id": 10
+    },
+    {
+      "expenseDescription": "Paid Electricity Bill",
+      "payeeName": "Rahul",
+      "price": 800,
+      "date": "2023-01-08",
+      "id": 11
+    },
+    {
+      "expenseDescription": "Hotel Expense",
+      "payeeName": "Rahul",
+      "price": 3000,
+      "date": "2023-01-08",
+      "id": 12
+    },
+    {
+      "expenseDescription": "Dinner Bill",
+      "payeeName": "Sunil",
+      "price": 6000,
+      "date": "2023-01-08",
+      "id": 13
+    },
+    {
+      "expenseDescription": "Room Rent",
+      "payeeName": "Amit",
+      "price": 9000,
+      "date": "2023-01-08",
+      "id": 14
+    }
+  ]
+}
